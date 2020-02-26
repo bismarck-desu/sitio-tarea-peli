@@ -1,0 +1,24 @@
+@charset "utf-8";
+tr td img {
+    float: left;
+}
+td #text p {
+    text-align: justify;
+    padding-left: 8px;
+    padding-right: 8px;
+}
+tr td p {
+    color: #FFFFFF;
+    text-align: justify;
+    padding-right: 8px;
+    padding-left: 8px;
+}
+td p img {
+    padding-left: 8px;
+    padding-right: 8px;
+}
+#Tabla_01 tr td {
+    background-image: url(images/atlantis-dise%C3%B1o_17.png);
+    color: #FFFFFF;
+    text-align: left;
+}
